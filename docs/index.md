@@ -1,5 +1,3 @@
-# Archivio gruppo Un Grido per Gaza
-
 ## Appelli, mozioni, lettere aperte
 
 - [Appello alle autorità accademiche israeliane del collettivo di accademici israeliani "Black Flag" (1400 firme al 31/5)](https://www.academia.edu/129505708/Black_Flag_Action_Group_Urgent_Call_to_the_Heads_of_Academia_in_Israel_May_31_2025_over_1400_signatures_)
