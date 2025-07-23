@@ -1,1 +1,5 @@
-theme: hacker
+title: Pace in Palestina
+description: Pagina di supporto per le azioni a favore della pace in Palestina del gruppo Un Grido per Gaza a Pisa.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
